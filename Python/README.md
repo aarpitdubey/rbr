@@ -29,3 +29,10 @@ print("Hello World\nHello World\nHello World")
 ```
 
 ![Alt text](image-3.png)
+
+**Print "Hello" and your name in python like for example: Hello Arpit**
+
+```python
+print("Hello" + " " + "Arpit")
+```
+![Alt text](image-4.png)
