@@ -9,3 +9,11 @@ print(input("What is your name:"))
 ```
 
 ![Alt text](image.png)
+
+**Take user input as his/her name and print "Hello" with user name in python**
+
+```python
+
+print("Hello,"+" "+ input("What is your name: "))
+```
+![Alt text](image-1.png)
