@@ -21,3 +21,11 @@ print("Hello World")
 print("Hello World")
 ```
 ![Alt text](image-2.png)
+
+**Print "Hello World" in python for 3 times in different lines but writtent in single statement.**
+
+```python
+print("Hello World\nHello World\nHello World")
+```
+
+![Alt text](image-3.png)
