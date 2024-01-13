@@ -13,23 +13,14 @@
 # print("Hello World\nHello World\nHello World")
 
 # Q. Print "Hello Arpit" in python using concatenation
-print("Hello"+"Arpit")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# print("Hello"+"Arpit")
 
 # Q. Print "Hello" and your name in python like
 # for example: Hello Arpit
 
 # print("Hello" + " " + "Arpit")
+
+
+# Getting Error Messages due to extra space or indentation in python
+
+    print("Hello" + " " + "Arpit")

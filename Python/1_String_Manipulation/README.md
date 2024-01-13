@@ -46,3 +46,11 @@ print("Hello"+"Arpit")
 print("Hello" + " " + "Arpit")
 ```
 ![Alt text](image-5.png)
+
+**Getting Error Messages due to extra space or indentation in python**
+
+```python
+print("Hello"  + " " + "Arpit")
+
+```
+![Alt text](image-6.png)
