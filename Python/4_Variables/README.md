@@ -16,3 +16,7 @@ print(f"The length of your name : '{name}' is {length}.")
 ```
 
 ![Alt text](image.png)
+
+- python is **dynamically - typed** language.
+
+- you can store mutiple data type in variable of same name.
